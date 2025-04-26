@@ -6,3 +6,4 @@
 | Image Generation  | Not Started| Generate images using GetImg.ai, dynamic prompts from image_settings        | Working `image_generator.py`           | TBD          | Use image_settings for prompt building                                           |
 | WordPress Integration | Not Started| Push content/images to WordPress based on publish settings                 | Updated `main.py` for WordPress uploads| TBD          | Depends on content and image generation being stable                             |
 | Error Handling    | Not Started| Add retries and error handling for all API calls                           | Enhanced error handling across all modules | TBD      | Fine-tune after core components are complete                                    |
+| Additional| col1|col2|col3|col4
